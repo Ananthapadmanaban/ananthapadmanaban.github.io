@@ -1,0 +1,16 @@
+/**************** Sidebar area styles ****************/
+
+#TableofContents1
+{position:absolute; top:0; left:0; width:220px; height:100%; overflow:auto; background:#e0e0e0 url(sidebarbg.gif) top right repeat-y; text-align:left;}
+
+body > #TableofContents1
+{position:fixed;}
+
+
+/**************** Content area styles ****************/
+
+#content
+{width:650px; margin:0 0 0 200px; padding:0px 0;text-align: justify;text-justify: inter-word;}
+
+#content p
+{margin:0 0 0px 0; line-height:1.15em;}
